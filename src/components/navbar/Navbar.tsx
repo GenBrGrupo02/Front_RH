@@ -46,10 +46,10 @@ function Navbar() {
                             </svg>
                         </label>
                         <Link to="/funcionarios">
-                        <button className="btn btn-outline btn-accent"> Funcionários</button>
+                        <button className="btn btn-outline btn-accent font-bold"> Funcionários</button>
                         </Link>
                         <Link to="/sobrenos">
-                        <button className="btn btn-outline btn-accent"> Sobre Nós</button>
+                        <button className="btn btn-outline btn-accent font-bold"> Sobre Nós</button>
                         </Link>
                     </div>
                 </div>
