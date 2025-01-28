@@ -16,8 +16,8 @@ function Navbar() {
         <>
             <div className='w-full flex justify-center py-4 bg-neutral text-secondary'>
 
-                <div className="container flex justify-between text-lg">
-                    <Link to="/home">
+                <div className="container flex justify-between">
+                    <Link to="/home" className="text-3xl font-bold">
                     Sistema RH
                     </Link>
 
