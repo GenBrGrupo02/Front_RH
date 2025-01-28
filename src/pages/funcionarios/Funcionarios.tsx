@@ -6,7 +6,7 @@ function Funcionarios(){
 return(
 
         <>
-        <div>
+        <div className="min-h-screen">
             <ListaFuncionarios/>
         </div>
         </>
