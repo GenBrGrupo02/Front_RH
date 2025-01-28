@@ -20,7 +20,7 @@ function CardFuncionarios() {
                 <div className='p-4 '>
                     <h4 className='text-lg font-semibold uppercase'>Informações</h4>
                     <p>nome: Geandro Araújo</p>
-                    <p>Cargo: Instrutosr</p>
+                    <p>Cargo: Instrutor</p>
                     <p>Salario: R$15.000 </p>
                     <p>Empresa: Generation Brasil</p>
                 </div>
