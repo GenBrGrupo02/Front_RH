@@ -14,13 +14,13 @@ function Navbar() {
 
     return (
         <>
-            <div className='w-full flex justify-center py-4 text-secondary'>
+            <div className='w-full flex justify-center py-4 bg-neutral text-secondary'>
 
                 <div className="container flex justify-between text-lg">
                     <Link to="/home">
                     Sistema RH
                     </Link>
-                    
+
                     <div className='flex gap-8'>
                         <label className="swap swap-rotate">
                             <input
